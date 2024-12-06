@@ -1,0 +1,273 @@
+body {
+    margin: 0px;
+    margin-top: 0%;
+   
+        font-family: "Oleo Script", serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: larger;
+    background-color: rgba(99, 68, 41, 0.969);
+    background-blend-mode: overlay;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: rgb(230, 172, 100);
+    text-align: center;
+    
+        
+}
+.welcome {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 45%;
+    margin-top: 3%;
+    box-shadow: 2px;
+background-color: rgba(255, 235, 205, 0.719);
+    color: rgb(60, 34, 13);
+    border: 1 px solid red;
+    box-shadow: 5px black;
+}
+
+.Manitou {
+    
+   
+    font-size: xx-large;
+    color: rgb(60, 34, 13);
+    background-color: blanchedalmond;
+    margin: 0%;
+   flex-direction: row;
+   justify-content: left;
+   
+
+
+}
+.top {
+    padding: 3px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: blanchedalmond;
+    
+}
+.navitem {
+    font-size: 18px;
+    text-decoration: none;
+    background-color: rgb(38, 22, 8);
+    color: blanchedalmond;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 5px;
+    padding-bottom: 3px;
+    padding-top:3px;
+    margin-top: 5px;
+   
+    margin-left: 10px;
+    margin-right: 10px; 
+}
+.navitem:hover {
+    background-color: blanchedalmond;
+    color: rgb(38, 22, 8);
+}
+
+.text {
+    border: 1px solid rgb(54, 34, 4);
+    border-radius: 25px;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 3%;
+    color: rgb(60, 34, 13);
+    background-color: rgba(255, 235, 205, 0.719);
+    font-weight: 700;
+    box-shadow: 10px;
+}
+.media {
+    background-color: blanchedalmond;
+    margin-top: 3%;
+    justify-content: space-around;
+   border: 1px solid blanchedalmond;
+   
+   
+}
+
+.contacts {
+  
+    justify-content: space-between;
+    padding: 10px;
+    margin-top: 4%;
+    margin: 0%;
+    
+
+}
+ 
+.about {
+    border: 1px solid blanchedalmond;
+    margin-top: 6%;
+   margin-bottom: 6%;
+    margin-left: 15%;
+    margin-right: 15%;
+    justify-content: center;
+    background-color: rgba(255, 235, 205, 0.719);
+    color: rgb(60, 34, 13);
+    font-weight: 700;
+    border-radius: 25px;
+
+}
+
+.pic {
+    padding-bottom: 2%;
+    mix-blend-mode: multiply;
+}
+
+    .image {
+        mix-blend-mode: multiply;
+        display: flex;
+        flex-direction: row;
+        margin-top: 0%;
+        margin-bottom: 0%;
+        margin-right: 0%;
+        justify-content: left;
+        margin-left: 0px;
+        padding-right: 5px;
+        
+    }
+.logo {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+
+    margin-left: 0px;
+}
+
+
+
+.topic {
+
+   margin-left: 5%;
+   margin-right: 5%;
+   margin-bottom: 6%;
+   margin-top: 7%;
+   font-size: larger;
+   font-weight: 700;
+   background-color: rgba(255, 235, 205, 0.719);
+   color: rgb(60, 34, 13);
+   border-radius: 20px;
+}
+
+.coffee {
+    display: flex;
+    flex-direction: row;
+
+    margin-top: 7%;
+    margin-bottom: 7%;
+
+margin-left: 10%;
+margin-right: 10%;
+border-radius: 10px;
+justify-content: center;
+
+
+  
+
+}
+
+.iced {
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 2%;
+  border-radius: 10%;
+  justify-content: space-between;
+  width:30%
+}
+
+.espresso {
+   margin-left: 0%;
+   margin-right: 0%;
+    margin-top: 2%;
+    border-radius: 30px;
+    justify-content: space-between;
+    width:30%
+}
+
+.latte {
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-top: 2%;
+    border-radius: 30px;
+    justify-content: space-between;
+    width:30%
+}
+
+
+.bakery {
+    display: flex;
+    flex-direction: row;
+
+    margin-top: 7%;
+    margin-bottom: 7%;
+
+margin-left: 10%;
+margin-right: 10%;
+border-radius: 10px;
+justify-content: center;
+  
+    
+    
+margin-top: 5%;
+
+    
+}
+
+
+
+.bite {
+    margin-left: 5%;
+   margin-right: 5%;
+   margin-bottom: 7%;
+   margin-top: 7.5%;
+   font-size: larger;
+   font-weight: 700;
+   background-color: rgba(255, 235, 205, 0.719);
+   color: rgb(60, 34, 13);
+   border-radius: 20px;
+}
+
+.cookies {
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-top: 2%;
+  border-radius: 30%;
+  border: 2px brown;
+  justify-content: space-between;
+  display: flex;
+  flex-direction: column;
+  width:30%
+}
+
+.cinnamon {
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 2%;
+  border-radius: 30px;
+  align-content: center;
+
+  display: flex;
+  flex-direction: column;
+  width:30%
+}
+
+
+.croissant {
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-top: 2%;
+    border-radius: 30px;
+    justify-content: first space-between;
+    display: flex;
+  flex-direction: column;
+  width:30%
+}
+
+.piti {
+    border-radius: 10px;
+}
