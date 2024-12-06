@@ -24,8 +24,10 @@ body {
     box-shadow: 2px;
 background-color: rgba(255, 235, 205, 0.719);
     color: rgb(60, 34, 13);
-    border: 1 px solid red;
-    box-shadow: 5px black;
+    
+          
+        
+      
 }
 
 .Manitou {
@@ -48,6 +50,8 @@ background-color: rgba(255, 235, 205, 0.719);
     justify-content: space-between;
     align-items: center;
     background-color: blanchedalmond;
+
+    
     
 }
 .navitem {
@@ -64,6 +68,8 @@ background-color: rgba(255, 235, 205, 0.719);
    
     margin-left: 10px;
     margin-right: 10px; 
+    justify-content: center;
+    box-shadow: 5px 5px rgba(185, 145, 85, 0.904);
 }
 .navitem:hover {
     background-color: blanchedalmond;
@@ -79,7 +85,8 @@ background-color: rgba(255, 235, 205, 0.719);
     color: rgb(60, 34, 13);
     background-color: rgba(255, 235, 205, 0.719);
     font-weight: 700;
-    box-shadow: 10px;
+    box-shadow: 10px 10px;
+      
 }
 .media {
     background-color: blanchedalmond;
@@ -111,6 +118,8 @@ background-color: rgba(255, 235, 205, 0.719);
     color: rgb(60, 34, 13);
     font-weight: 700;
     border-radius: 25px;
+    box-shadow: 10px 10px;
+    
 
 }
 
@@ -129,7 +138,7 @@ background-color: rgba(255, 235, 205, 0.719);
         justify-content: left;
         margin-left: 0px;
         padding-right: 5px;
-        
+      
     }
 .logo {
     display: flex;
@@ -152,6 +161,8 @@ background-color: rgba(255, 235, 205, 0.719);
    background-color: rgba(255, 235, 205, 0.719);
    color: rgb(60, 34, 13);
    border-radius: 20px;
+box-shadow: 10px 10px;
+
 }
 
 .coffee {
@@ -166,9 +177,6 @@ margin-right: 10%;
 border-radius: 10px;
 justify-content: center;
 
-
-  
-
 }
 
 .iced {
@@ -179,6 +187,7 @@ justify-content: center;
   justify-content: space-between;
   width:30%
 }
+
 
 .espresso {
    margin-left: 0%;
@@ -205,11 +214,13 @@ justify-content: center;
 
     margin-top: 7%;
     margin-bottom: 7%;
-
-margin-left: 10%;
-margin-right: 10%;
-border-radius: 10px;
-justify-content: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 10px;
+    justify-content: center;
+  
+    
+  
   
     
     
@@ -230,7 +241,12 @@ margin-top: 5%;
    background-color: rgba(255, 235, 205, 0.719);
    color: rgb(60, 34, 13);
    border-radius: 20px;
+   justify-content: center;
+    box-shadow: 10px 10px;
+   
 }
+
+
 
 .cookies {
     margin-left: 0%;
@@ -268,6 +284,3 @@ margin-top: 5%;
   width:30%
 }
 
-.piti {
-    border-radius: 10px;
-}
