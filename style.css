@@ -15,7 +15,7 @@ body {
     
         
 }
-.welcome {
+.responsive {
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -60,16 +60,30 @@ background-color: rgba(255, 235, 205, 0.719);
     background-color: rgb(38, 22, 8);
     color: blanchedalmond;
     border-radius: 10px;
-    padding-left: 10px;
+    padding-left: 2s0px;
     padding-right: 5px;
     padding-bottom: 3px;
     padding-top:3px;
     margin-top: 5px;
-   
-    margin-left: 10px;
-    margin-right: 10px; 
+    margin-left: 2px;
+    margin-right: 3px; 
     justify-content: center;
     box-shadow: 5px 5px rgba(185, 145, 85, 0.904);
+    width: initial
+    
+    
+   
+ 
+   
+
+
+
+   
+   
+ 
+  
+  
+   
 }
 .navitem:hover {
     background-color: blanchedalmond;
@@ -214,8 +228,8 @@ justify-content: center;
 
     margin-top: 7%;
     margin-bottom: 7%;
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 5%;
+    margin-right: 5%;
     border-radius: 10px;
     justify-content: center;
   
@@ -237,7 +251,7 @@ margin-top: 5%;
    margin-bottom: 7%;
    margin-top: 7.5%;
    font-size: larger;
-   font-weight: 700;
+   font-weight: 600;
    background-color: rgba(255, 235, 205, 0.719);
    color: rgb(60, 34, 13);
    border-radius: 20px;
@@ -249,8 +263,8 @@ margin-top: 5%;
 
 
 .cookies {
-    margin-left: 0%;
-    margin-right: 0%;
+    margin-left: 5%;
+    margin-right: 5%;
     margin-top: 2%;
   border-radius: 30%;
   border: 2px brown;
@@ -261,12 +275,12 @@ margin-top: 5%;
 }
 
 .cinnamon {
-    margin-left: 5%;
-    margin-right: 5%;
+    border-radius: 10px;
+    margin-left: 0%;
+    margin-right: 0%;
     margin-top: 2%;
   border-radius: 30px;
   align-content: center;
-
   display: flex;
   flex-direction: column;
   width:30%
